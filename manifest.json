@@ -1,0 +1,11 @@
+{
+	"id": "show-edit-datetime",
+	"name": "Show Edit Datetime",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Displays file creation and update times in the status bar.",
+	"author": "Atria64",
+	"authorUrl": "https://atriasoft.work/",
+	"fundingUrl": "",
+	"isDesktopOnly": true
+}
